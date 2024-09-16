@@ -76,7 +76,7 @@ html {
 
 
   .titulo-color {
-	color: var(--amarillo);
+	color: var(--rosado);
   }  
 
   /*Colores del list y algunos titulos*/
@@ -176,7 +176,7 @@ html {
 /*Formulario*/
 
 .contacto { 
-	color: var(--amarillo);
+	color: var(--rosado);
 	text-align: center;
 	padding: 16px;
 	margin: 4rem 0 2rem 0;
